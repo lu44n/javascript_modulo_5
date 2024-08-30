@@ -1,2 +1,2 @@
-# javascript_modulo_5
+# Desenvolvimento Pessoal em JavaScript
  Programação Orientada a Objetos em JavaScript
